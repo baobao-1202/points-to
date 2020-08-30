@@ -1,0 +1,21 @@
+<Container: void <init>()>::new Item->$r1
+<Container: void <init>()>::$r1---->r0.item
+<Container: void <init>()>::@this: Container->r0
+<Container: void setItem(Item)>::r1---->r0.item
+<Container: void setItem(Item)>::@this: Container->r0
+<Container: void setItem(Item)>::@parameter0: Item->r1
+<Container: Item getItem()>::@this: Container->r0
+<Container: Item getItem()>::r0.<Container: Item item>--item-->$r1
+<Example: void <init>()>::@this: Example->r0
+<Example: void go()>::@this: Example->r0
+<Example: void go()>::$r6->r1
+<Example: void go()>::new Item->$r9
+<Example: void go()>::r3->r5
+<Example: void go()>::r2---->r1.item
+<Example: void go()>::new Item->$r7
+<Example: void go()>::$r7->r2
+<Example: void go()>::new Container->$r8
+<Example: void go()>::$r9->r4
+<Example: void go()>::$r8->r3
+<Example: void go()>::new Container->$r6
+<Item: void <init>()>::@this: Item->r0

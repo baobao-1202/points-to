@@ -1,0 +1,11 @@
+<Container: void <init>()>$r1::Object2
+<Example: void go()>r4::Object9
+<Example: void go()>r3::Object8
+<Example: void go()>$r7::Object4
+<Example: void go()>$r9::Object9
+<Example: void go()>r5::Object8
+<Example: void go()>$r6::Object3
+<Example: void go()>$r8::Object8
+<Example: void go()>r1::Object3
+<Example: void go()>r2::Object4
+Object3<Container: Item item>::Object4
