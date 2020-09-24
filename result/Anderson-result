@@ -1,0 +1,15 @@
+<Container: void <init>()>$r1::object0
+<Example: void go()>$r6::object1
+<Example: void go()>$r7::object2
+<Example: void go()>$r8::object3
+<Example: void go()>r5::object3
+<Container: void setItem(Item)>r0::object1
+<Container: void setItem(Item)>r0::object3
+<Example: void go()>$r9::object4
+<Example: void go()>r2::object2
+<Example: void go()>r1::object1
+<Example: void go()>r4::object4
+<Example: void go()>r3::object3
+<Container: void setItem(Item)>@this: Container::object1
+<Container: void setItem(Item)>@this: Container::object3
+object1<Container: Item item>::object2

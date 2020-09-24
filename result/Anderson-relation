@@ -1,0 +1,23 @@
+<Example: void go()>r3-><Example: void go()>r5
+<Container: void setItem(Item)>@parameter0: Item-><Example: void go()>r4
+<Container: void <init>()>$r1----><Container: void <init>()>r0.item
+<Example: void go()>$r7-><Example: void go()>r2
+<Container: void setItem(Item)>@this: Container-><Container: void setItem(Item)>r0
+<Container: void setItem(Item)>@parameter0: Item-><Example: void go()>r2
+<Example: void <init>()>@this: Example-><Example: void <init>()>r0
+<Example: void go()>@this: Example-><Example: void go()>r0
+<Container: void setItem(Item)>r1----><Container: void setItem(Item)>r0.item
+<Example: void go()>new Item-><Example: void go()>$r9
+<Item: void <init>()>@this: Item-><Item: void <init>()>r0
+<Example: void go()>new Container-><Example: void go()>$r8
+<Container: Item getItem()>r0.<Container: Item item>--item--><Container: Item getItem()>$r1
+<Example: void go()>$r9-><Example: void go()>r4
+<Container: void setItem(Item)>@parameter0: Item-><Container: void setItem(Item)>r1
+<Example: void go()>$r6-><Example: void go()>r1
+<Container: Item getItem()>@this: Container-><Container: Item getItem()>r0
+<Example: void go()>r2----><Example: void go()>r1.item
+<Example: void go()>$r8-><Example: void go()>r3
+<Example: void go()>new Container-><Example: void go()>$r6
+<Container: void <init>()>new Item-><Container: void <init>()>$r1
+<Example: void go()>new Item-><Example: void go()>$r7
+<Container: void <init>()>@this: Container-><Container: void <init>()>r0
